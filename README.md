@@ -1,25 +1,28 @@
-### facebook-cracker
-### Facebook Cracker Version 1.0 can crack into Facebook Database 100% without Interruption By Facebook Firewall 
-### This program is for educational purposes only.
-### Don't attack people facebook accounts it's illegal ! 
-### If you want to crack into someone's account, you must have the permission of the user. 
-### Mauritania Attacker is not responsible
+# Inshackle v1.0
+## Author: github.com/thelinuxchoice/inshackle
+## IG: instagram.com/linux_choice
+### Don't copy this code without give me the credits, nerd! Please read the License 
 
-### Whit is a facebook-cracker
+Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc
 
-### I have written lots of facebook hacking art icle like hack facebook using android smartphone,open source tools,python and perl script etc.. But Toady I'will tell you about hacking in Facebook Using Brute force attack.
-### In brute force attack method,tool try all combination of password to provide access of victim account Brute force attack is the only successful method to hack facebook account. Hack Facebook Account Password Using Brute
+### Features:
+#### Unfollow Tracker
+#### Increase Followers
+#### Download: Stories, Saved Content, Following/followers list, Profile Info
+#### Unfollow all your following
 
-### Download&Install
+![ins](https://user-images.githubusercontent.com/34893261/53686880-d50f6000-3d0b-11e9-8c42-cab1ad30b24e.png)
 
-### git clone https://github.com/Ha3MrX/facebook-cracker
-   
-### cd facebook-cracker
+### Usage:
+```
+git clone https://github.com/thelinuxchoice/inshackle
+cd inshackle
+bash inshackle.sh
+```
 
-### chmod +x facebook.py
-
-### python facebook.py
-
-### ScreenShot 
-
-![capture](https://user-images.githubusercontent.com/33704360/45833780-35868400-bd0e-11e8-9f83-04792e031f4a.PNG)
+### Donate!
+Support the authors:
+### Paypal:
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
+### LiberaPay:
+<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
